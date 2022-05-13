@@ -10,7 +10,8 @@ Mengurutkan data array produk dengan prioritas:
 </ol>
 <br/><br/>
 
-![Screenshot 2022-05-12 193120](https://user-images.githubusercontent.com/70563202/168075498-55142f34-4f7c-4c3d-a771-c90a018aaa7a.png)
+![Screenshot 2022-05-13 103756](https://user-images.githubusercontent.com/70563202/168206555-b098c433-f7dd-43df-b6c2-93680faef10c.png)
+
 <br /><br/>
 Data di atas, sudah diurutkan berdasarkan perintah yang diberikan dengan menggunakan Javascript array sort() method. <br /><br />
 
